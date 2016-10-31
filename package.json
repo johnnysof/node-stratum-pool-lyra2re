@@ -28,7 +28,7 @@
         "url": "https://github.com/upgradeadvice/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "upgradeadvice/node-multi-hashing",
+        "multi-hashing": "git://github.com/upgradeadvice/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
