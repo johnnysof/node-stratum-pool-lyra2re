@@ -29,9 +29,9 @@
     },
     "dependencies": {
         "multi-hashing": "git://github.com/upgradeadvice/node-multi-hashing.git",
-        "bignum": "*",
+        "bignum": "0.11.0",
         "base58-native": "*",
-        "async": "*"
+        "async": "1.5.2"
     },
     "engines": {
         "node": ">=0.10"
