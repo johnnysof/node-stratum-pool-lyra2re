@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/upgradeadvice/node-stratum-pool",
+    "homepage": "https://github.com/johnnysof/test",
     "bugs": {
-        "url": "https://github.com/upgradeadvice/node-stratum-pool/issues"
+        "url": "https://github.com/johnnysof/test/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,7 +25,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/upgradeadvice/node-stratum-pool.git"
+        "url": "https://github.com/johnnysof/test.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/upgradeadvice/node-multi-hashing.git",
